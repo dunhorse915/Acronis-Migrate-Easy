@@ -197,3 +197,6 @@ This repository serves as the official landing page for Acronis Migrate Easy. Th
 - 💬 **[Community](https://softcosmo.com/about-us/)**
 ---
 **Get the most recent version of Acronis Migrate Easy today!**
+
+---
+**Last updated:** 2026-11-07 00:33:16 UTC
