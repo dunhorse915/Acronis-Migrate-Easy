@@ -199,4 +199,4 @@ This repository serves as the official landing page for Acronis Migrate Easy. Th
 **Get the most recent version of Acronis Migrate Easy today!**
 
 ---
-**Last updated:** 2026-11-09 18:06:16 UTC
+**Last updated:** 2026-11-10 01:49:30 UTC
